@@ -80,17 +80,7 @@ const HomePage = () => {
               <p className="text-gray-300 text-lg">Get our weekly "Top 3" list of life-improving products and strategies delivered to your inbox.</p>
             </div>
             <div className="md:w-5/12 w-full">
-              <form className="flex flex-col sm:flex-row space-y-4 sm:space-y-0" onSubmit={(e) => e.preventDefault()}>
-                <input 
-                  type="email" 
-                  placeholder="Enter your email" 
-                  className="flex-grow px-6 py-4 rounded-t-lg sm:rounded-l-lg sm:rounded-tr-none text-primary focus:outline-none focus:ring-2 focus:ring-secondary" 
-                  required
-                />
-                <button className="bg-cta text-white px-8 py-4 rounded-b-lg sm:rounded-r-lg sm:rounded-bl-none font-bold hover:bg-opacity-90 transition">
-                  Subscribe
-                </button>
-              </form>
+              <script async data-uid="5301921de6" src="https://fitnessprk.kit.com/5301921de6/index.js"></script>
               <p className="text-xs text-gray-400 mt-4 text-center sm:text-left">No spam, ever. Unsubscribe with one click.</p>
             </div>
           </div>
@@ -117,3 +107,9 @@ const NicheCard = ({ title, description, link, icon, color }: { title: string, d
 );
 
 export default HomePage;
+/home/engine/.bashrc: line 1: syntax error near unexpected token `('
+/home/engine/.bashrc: line 1: `. /etc/profile.d/workload-containment.shn# ~/.bashrc: executed by bash(1) for non-login shells.'
+/home/engine/.bashrc: line 1: syntax error near unexpected token `('
+/home/engine/.bashrc: line 1: `. /etc/profile.d/workload-containment.shn# ~/.bashrc: executed by bash(1) for non-login shells.'
+/home/engine/.bashrc: line 1: syntax error near unexpected token `('
+/home/engine/.bashrc: line 1: `. /etc/profile.d/workload-containment.shn# ~/.bashrc: executed by bash(1) for non-login shells.'
