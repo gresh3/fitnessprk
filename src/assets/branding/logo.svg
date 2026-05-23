@@ -1,0 +1,17 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle (Optional) -->
+  <!-- <circle cx="100" cy="100" r="90" fill="#f8f9fa" /> -->
+  
+  <!-- Main Icon Shape -->
+  <path d="M50 150 L100 50 L150 150" stroke="#2C3E50" stroke-width="12" fill="none" stroke-linejoin="round" stroke-linecap="round" />
+  
+  <!-- Link Symbol in the middle -->
+  <rect x="85" y="100" width="30" height="15" rx="7" fill="#1ABC9C" />
+  <rect x="85" y="120" width="30" height="15" rx="7" fill="#1ABC9C" />
+  
+  <!-- Rising Arrow part -->
+  <path d="M140 140 L170 110 L170 130 M170 110 L150 110" stroke="#1ABC9C" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Text Label (for the asset, maybe separate) -->
+  <text x="100" y="185" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2C3E50" text-anchor="middle">AutoAffiliate Pro</text>
+</svg>

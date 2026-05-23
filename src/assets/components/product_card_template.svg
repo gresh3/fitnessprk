@@ -1,0 +1,25 @@
+<svg width="400" height="250" viewBox="0 0 400 250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Card Background -->
+  <rect x="5" y="5" width="390" height="240" rx="10" fill="white" stroke="#E0E0E0" stroke-width="1" />
+  
+  <!-- Image Placeholder -->
+  <rect x="20" y="20" width="100" height="100" rx="5" fill="#F0F0F0" />
+  <text x="70" y="75" font-family="Arial" font-size="12" fill="#999" text-anchor="middle">Product Image</text>
+  
+  <!-- Title and Description -->
+  <text x="140" y="40" font-family="Arial" font-size="18" font-weight="bold" fill="#2C3E50">Product Name</text>
+  <text x="140" y="65" font-family="Arial" font-size="14" fill="#666">Brief product description goes here...</text>
+  <text x="140" y="85" font-family="Arial" font-size="14" fill="#666">highlighting key benefits.</text>
+  
+  <!-- Rating -->
+  <text x="140" y="115" font-family="Arial" font-size="16" fill="#F1C40F">★★★★★</text>
+  <text x="210" y="115" font-family="Arial" font-size="14" fill="#999">(4.8/5)</text>
+  
+  <!-- Pricing/Button Section -->
+  <line x1="20" y1="180" x2="380" y2="180" stroke="#EEE" stroke-width="1" />
+  
+  <text x="20" y="215" font-family="Arial" font-size="20" font-weight="bold" fill="#2C3E50">$99.00</text>
+  
+  <rect x="250" y="195" width="130" height="40" rx="5" fill="#1ABC9C" />
+  <text x="315" y="220" font-family="Arial" font-size="14" font-weight="bold" fill="white" text-anchor="middle">Check Price</text>
+</svg>
